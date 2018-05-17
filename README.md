@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OAuth bridge template
 
 This service logs in to Spotify and redirects the user to a given frontend application with a valid access_token as a parameter in the url.
@@ -35,3 +36,7 @@ git push heroku master
 ```
 
 You should now be able to go to http://mybackend.herokuapp.com/login and it will eventually redirect to http://myfrontend.herokuapp.com?access_token=ZZZZZwhere ZZZZZ is a valid access token that you can use to do operations in the Spotify API.
+=======
+# spotifybackend
+Backend node para conexão com API Spotify
+>>>>>>> 7b6be231e689effe37ad89bfacb3ac3826eb2d3f
